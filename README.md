@@ -27,4 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codenano077&show_icons=true&locale=en" alt="codenano077" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codenano077&" alt="codenano077" /></p>
-[!@codenano077's Holopin badges](https://holopin.me/codenano077)](https://holopin.io/@codenano077)
+[![An image of @codenano077's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codenano077)](https://holopin.io/@codenano077)
