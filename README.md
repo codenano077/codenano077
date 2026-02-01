@@ -1,24 +1,81 @@
-<h1 align="center">Hi 👋, I'm Darshan shetty</h1>
-<h3 align="center">A passionate Game developer from India</h3>
+# Hi, I'm codenano077 👋
+Game developer, graphics tinkerer, and algorithm student — I build playable prototypes, graphics tools, and practice data structures & algorithms across C#, GDScript, JavaScript, C++, Java, and R.
 
-- 🔭 I’m currently working on **2D - platform game**
+---
 
-- 🌱 I’m currently learning **2d and 3d games**
+## ⭐ Quick highlights
+- 🔭 Building games & graphics tools: platformers, fighting games, and OpenGL systems  
+- 🧩 Languages: C#, GDScript (Godot), JavaScript, C++, Java, R, HTML/CSS  
+- 🔁 Practice: Data Structures & Algorithms (Java_DSA — private repo)  
+- ⚡ Interests: game design, real-time graphics, gameplay systems, and algorithmic problem solving
 
-- 💬 Ask me about **Unity,Godot Engines**
+---
 
-- 📫 How to reach me **shettydarshan021@gmail.com**
+## 🛠 Tech & tools
+- Engines & APIs: Godot (GDScript), Unity-style workflows (C#), OpenGL (C++)
+- Languages: C#, GDScript, JavaScript, C++, Java, R, HTML/CSS
+- Workflow: Git, asset pipelines, iteration-focused prototyping
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 🔭 Featured projects
+- platform_game01 — Platformer prototype / toolkit (C#)  
+  https://github.com/codenano077/platform_game01  
+  A large C# codebase for platformer mechanics and level prototypes (big asset/project size — active iteration).
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codenano077&show_icons=true&locale=en&layout=compact" alt="codenano077" /></p>
+- zombiegame — Godot zombie survival prototype (GDScript)  
+  https://github.com/codenano077/zombiegame  
+  Prototype built with Godot using GDScript: AI, spawning, and basic enemy/player interactions.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codenano077&show_icons=true&locale=en" alt="codenano077" /></p>
+- Fighting-game — Browser-based fighting demo (JavaScript)  
+  https://github.com/codenano077/Fighting-game  
+  Lightweight fighting mechanics and demo scenes implemented in JavaScript for rapid playtesting.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codenano077&" alt="codenano077" /></p>
+- OPEN_GL-cameraSystem — Graphics / camera system (C++)  
+  https://github.com/codenano077/OPEN_GL-cameraSystem  
+  Major C++ project focusing on camera control and OpenGL rendering utilities.
 
+- Java_DSA (private) — Java data structures & algorithms practice  
+  https://github.com/codenano077/Java_DSA (private)  
+  Collection of algorithm solutions and practice problems in Java — used for interview prep and skill sharpening.
+
+---
+
+## 🧭 How I work
+- Fast prototyping: get playable builds in front of users quickly  
+- Iterate on feel: prioritize gameplay feel, then polish systems  
+- Component-driven: modular behaviors and reusable systems for rapid experimentation  
+- Learn by building: each project targets a specific mechanic or engine feature
+
+---
+
+## 📫 Connect
+- GitHub: https://github.com/codenano077  
+- Email: your-email@example.com (replace with preferred contact)  
+- Portfolio / Website: add your site link here  
+- LinkedIn / Twitter / X: add links if you'd like them listed
+
+---
+
+## 📈 GitHub stats
+
+Top languages (visual):
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenano077&layout=compact&theme=tokyonight)
+
+Profile overview:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codenano077&show_icons=true&count_private=true&theme=tokyonight)
+
+Contribution activity:
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=codenano077&theme=github)
+
+Trophies:
+![Trophies](https://github-profile-trophy.vercel.app/?username=codenano077&theme=onedark)
+
+(If any of these cards fail to load, you can remove or replace them with other widgets. Let me know if you prefer a different visual theme — e.g., dark, radical, onedark, gruvbox — and I’ll update the image URLs.)
+
+---
+
+## ⚡ Availability
+Open to: full-time roles • contracting • mentorship • collaboration (customize)
+
+---
