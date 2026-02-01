@@ -51,9 +51,9 @@ Game developer, graphics tinkerer, and algorithm student — I build playable pr
 
 ## 📫 Connect
 - GitHub: https://github.com/codenano077  
-- Email: your-email@example.com (replace with preferred contact)  
+- Email: shettydarshan021@gmail.com  
 - Portfolio / Website: add your site link here  
-- LinkedIn / Twitter / X: add links if you'd like them listed
+- LinkedIn : https://www.linkedin.com/in/darshan-shetty-dev/
 
 ---
 
