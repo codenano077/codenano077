@@ -1,81 +1,49 @@
-# Hi, I'm codenano077 👋
-Game developer, graphics tinkerer, and algorithm student — I build playable prototypes, graphics tools, and practice data structures & algorithms across C#, GDScript, JavaScript, C++, Java, and R.
+<h2 align="left">Hi 👋! My name is Darshan Shetty and I'm a Devloper.</h2>
 
----
+###
 
-## ⭐ Quick highlights
-- 🔭 Building games & graphics tools: platformers, fighting games, and OpenGL systems  
-- 🧩 Languages: C#, GDScript (Godot), JavaScript, C++, Java, R, HTML/CSS  
-- 🔁 Practice: Data Structures & Algorithms (Java_DSA — private repo)  
-- ⚡ Interests: game design, real-time graphics, gameplay systems, and algorithmic problem solving
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-## 🛠 Tech & tools
-- Engines & APIs: Godot (GDScript), Unity-style workflows (C#), OpenGL (C++)
-- Languages: C#, GDScript, JavaScript, C++, Java, R, HTML/CSS
-- Workflow: Git, asset pipelines, iteration-focused prototyping
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
----
+###
 
-## 🔭 Featured projects
-- platform_game01 — Platformer prototype / toolkit (C#)  
-  https://github.com/codenano077/platform_game01  
-  A large C# codebase for platformer mechanics and level prototypes (big asset/project size — active iteration).
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-- zombiegame — Godot zombie survival prototype (GDScript)  
-  https://github.com/codenano077/zombiegame  
-  Prototype built with Godot using GDScript: AI, spawning, and basic enemy/player interactions.
+###
 
-- Fighting-game — Browser-based fighting demo (JavaScript)  
-  https://github.com/codenano077/Fighting-game  
-  Lightweight fighting mechanics and demo scenes implemented in JavaScript for rapid playtesting.
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-- OPEN_GL-cameraSystem — Graphics / camera system (C++)  
-  https://github.com/codenano077/OPEN_GL-cameraSystem  
-  Major C++ project focusing on camera control and OpenGL rendering utilities.
+###
 
-- Java_DSA (private) — Java data structures & algorithms practice  
-  https://github.com/codenano077/Java_DSA (private)  
-  Collection of algorithm solutions and practice problems in Java — used for interview prep and skill sharpening.
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-## 🧭 How I work
-- Fast prototyping: get playable builds in front of users quickly  
-- Iterate on feel: prioritize gameplay feel, then polish systems  
-- Component-driven: modular behaviors and reusable systems for rapid experimentation  
-- Learn by building: each project targets a specific mechanic or engine feature
-
----
-
-## 📫 Connect
-- GitHub: https://github.com/codenano077  
-- Email: shettydarshan021@gmail.com  
-- Portfolio / Website: add your site link here  
-- LinkedIn : https://www.linkedin.com/in/darshan-shetty-dev/
-
----
-
-## 📈 GitHub stats
-
-Top languages (visual):
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenano077&layout=compact&theme=tokyonight)
-
-Profile overview:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codenano077&show_icons=true&count_private=true&theme=tokyonight)
-
-Contribution activity:
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=codenano077&theme=github)
-
-Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=codenano077&theme=onedark)
-
-(If any of these cards fail to load, you can remove or replace them with other widgets. Let me know if you prefer a different visual theme — e.g., dark, radical, onedark, gruvbox — and I’ll update the image URLs.)
-
----
-
-## ⚡ Availability
-Open to: full-time roles • contracting • mentorship • collaboration (customize)
-
----
+###
