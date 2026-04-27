@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=C%23+Developer;Backend+Learner;SQL+%26+.NET+Enthusiast;Building+Real+World+Projects&pause=1000&speed=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=C%23+Developer;Backend+Learner;.NET+Enthusiast;Building+Real+World+Projects&pause=1000&speed=50" />
 </p>
 
 # 💫 About Me:
