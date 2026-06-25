@@ -47,9 +47,6 @@ Right now I'm looking for a **software developer role** where I can keep learnin
 **🎮 Metaverse Board Game Hub** — *Unreal Engine 5, C++, Blueprints*
 > Real-time multiplayer environment where players pick avatars and play board games together. The networking layer was the most interesting and frustrating part — debugging desync across clients teaches you things no tutorial covers.
 
-**🧟 2D Zombie Shooter** — *Godot Engine, GDScript*
-> Started as a weekend project to learn Godot, ended up being a proper deep-dive into game feel and enemy AI. Wave-based levels, pathfinding, power-ups. Playtested until the pacing actually felt right.
-👉 [View Repo](https://github.com/codenano077/zombiegame)
 
 **🃏 Console Flashcards App** — *C#, .NET, SQL Server, ADO.NET, Spectre.Console*
 > Built this to solve a problem I had. Fast, keyboard-driven, no browser needed. Full CRUD with SQL Server, session tracking, accuracy rates per deck.
